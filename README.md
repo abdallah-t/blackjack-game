@@ -1,6 +1,11 @@
 # Blackjack Game
 
 ![Blackjack Logo](./images/logo.png)
+<p align="center">
+  <a href="https://replit.com/@abdallah-t/blackjack-game" target="_blank">
+    <img src="https://img.shields.io/badge/Run%20Game-blue?style=for-the-badge&logo=replit" alt="Run Game">
+  </a>
+</p>
 
 Welcome to the **Blackjack Game**! This is a Python-based implementation of the classic casino card game Blackjack. Test your luck and strategy in this exciting game of chance.
 
